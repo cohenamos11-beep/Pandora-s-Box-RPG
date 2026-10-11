@@ -1,0 +1,1 @@
+This project is just a game that runs in your terminal. It will be updated later on to include a full story and better graphics, but this is how it is for now. I will update it every other week so that is when to expect updates.
